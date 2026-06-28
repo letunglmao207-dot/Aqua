@@ -1,4 +1,3 @@
--- dumped by davixtools.xyz (Davix Dumper)
 local Env = getfenv();
 local L = {};
 local v1 = {...};
